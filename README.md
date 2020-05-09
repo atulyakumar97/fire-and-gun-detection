@@ -23,7 +23,7 @@ optional arguments:
 
 ### Move inside the project folder and use the following command:
 ```
-python yolo.py --play_video True --video_path fire1.mp4
+python yolo.py --play_video True --video_path videos/fire1.mp4
 ```
 
 [Dataset](https://www.kaggle.com/atulyakumar98/fire-and-gun-dataset)
