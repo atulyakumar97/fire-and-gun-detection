@@ -5,9 +5,9 @@ import time
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--webcam', help="True/False", default=False)
-parser.add_argument('--play_video', help="Tue/False", default=True)
+parser.add_argument('--play_video', help="Tue/False", default=False)
 parser.add_argument('--image', help="Tue/False", default=False)
-parser.add_argument('--video_path', help="Path of video file", default="fire1.mp4")
+parser.add_argument('--video_path', help="Path of video file", default="videos/fire1.mp4")
 parser.add_argument('--image_path', help="Path of image to detect objects", default="Images/bicycle.jpg")
 parser.add_argument('--verbose', help="To print statements", default=True)
 args = parser.parse_args()
