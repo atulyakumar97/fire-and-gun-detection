@@ -1,0 +1,4 @@
+*.mp4
+/__pycache__
+yolov3.weights
+
