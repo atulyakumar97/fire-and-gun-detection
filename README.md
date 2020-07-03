@@ -1,6 +1,6 @@
 # Fire and Gun Detection
 
-![result](https://raw.githubusercontent.com/atulyakumar97/fire-and-gun-detection/master/screenshots/1.jpg "Model Output")
+![result](https://raw.githubusercontent.com/atulyakumar97/fire-and-gun-detection/master/screenshots/0.jpg "Model Output")
 
 ### How to use yolo.py:
 ```
@@ -32,4 +32,7 @@ Training done on google collab - [Jupyter notebook](https://colab.research.googl
 
 Demo: [Youtube](https://www.youtube.com/watch?v=KUrOOUEtYzo)
 
-Paper: To be added soon
+### Paper
+Proceedings of the International conference on Electronics and Sustainable Communication Systems (ICESCS 2020) <br>
+ISBN: 978-1-7281-4107-7 <br>
+978-1-7281-4108-4/20/©2020 IEEE <br>
