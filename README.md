@@ -21,6 +21,11 @@ optional arguments:
   --verbose VERBOSE     To print statements
 ```
 
+### Weights File Backup
+
+If the GitLFS file is not accessible - Download [Weights](https://1drv.ms/u/s!Aj0l1DM1G5wOm0Vg2n7RI5Q4_ZOq?e=gGvvMy) and keep inside the project folder.
+
+
 ### Move inside the project folder and use the following command:
 ```
 python yolo.py --play_video True --video_path videos/fire1.mp4
