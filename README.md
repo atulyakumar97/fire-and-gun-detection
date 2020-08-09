@@ -39,6 +39,6 @@ Demo: [Youtube](https://www.youtube.com/watch?v=KUrOOUEtYzo)
 
 ### Paper
 [Fire and Gun Violence based Anomaly Detection System Using Deep Neural Networks](https://ieeexplore.ieee.org/document/9155625) <br>
-Proceedings of the International conference on Electronics and Sustainable Communication Systems (ICESCS 2020) <br>
+Proceedings of the [International conference on Electronics and Sustainable Communication Systems - ICESCS 2020](https://ieeexplore.ieee.org/servlet/opac?punumber=9145513) <br>
 ISBN: 978-1-7281-4107-7 <br>
 978-1-7281-4108-4/20/©2020 IEEE <br>
